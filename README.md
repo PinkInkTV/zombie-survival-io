@@ -37,3 +37,10 @@ You can find the latest verson from the [releases](https://github.com/PinkInkTV/
 ## Work in Progress (Shop)
 
 ![Shop](https://user-images.githubusercontent.com/45475484/58449868-44091480-80c1-11e9-9df8-46f3d5103f56.png)
+
+
+## License
+
+MIT License
+
+Copyright (c) 2019 PinkInkTV
