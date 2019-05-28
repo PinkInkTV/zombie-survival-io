@@ -28,6 +28,6 @@ A scratch game built to survive a zombie apocalypse.
 ![Health-Logic](https://user-images.githubusercontent.com/45475484/58449783-0b693b00-80c1-11e9-8552-64823da17cfd.png)
 
 
-## Work in Progress
+## Work in Progress (Shop)
 
-![]()
+![Shop](https://user-images.githubusercontent.com/45475484/58449868-44091480-80c1-11e9-9df8-46f3d5103f56.png)
