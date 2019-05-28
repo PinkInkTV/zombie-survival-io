@@ -17,3 +17,7 @@ A scratch game built to survive a zombie apocalypse.
 ### Zombie Spawn Logic
 
 ![Zombie-Spawn-Logic](https://user-images.githubusercontent.com/45475484/58449459-7c5c2300-80c0-11e9-86af-1d14b985821c.png)
+
+### Zombie Control Logic
+
+![Zombie-Control-Logic](https://user-images.githubusercontent.com/45475484/58449572-bcbba100-80c0-11e9-9f1f-2601b4e3d4a7.png)
