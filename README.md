@@ -21,3 +21,8 @@ A scratch game built to survive a zombie apocalypse.
 ### Zombie Control Logic
 
 ![Zombie-Control-Logic](https://user-images.githubusercontent.com/45475484/58449572-bcbba100-80c0-11e9-9f1f-2601b4e3d4a7.png)
+
+
+### Health Logic
+
+![Health-Logic](https://user-images.githubusercontent.com/45475484/58449783-0b693b00-80c1-11e9-8552-64823da17cfd.png)
