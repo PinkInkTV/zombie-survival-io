@@ -6,6 +6,7 @@ A scratch game built to survive a zombie apocalypse.
 
 > Note: This is my first game and `"code"` that I have ever writen.
 
+![Conditional](https://user-images.githubusercontent.com/45475484/58449300-c264b700-80bf-11e9-988c-22a68f0cf483.png)
 
 
 ![Conditional](https://cs.harvard.edu/malan/scratch/ifmousedownelse.gif)
