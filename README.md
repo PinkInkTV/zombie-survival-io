@@ -4,7 +4,13 @@ A scratch game built to survive a zombie apocalypse.
 
 ![zombie](https://user-images.githubusercontent.com/45475484/58449192-4c605000-80bf-11e9-987c-fb7fe12d0e29.gif)
 
-> Note: This is my first game and `"code"` that I have ever writen.
+> Note: This is my first game and `"code"` that I have ever writen with [Scratch](https://scratch.mit.edu/)
+
+## Download
+
+You can find the latest verson from the [releases](hhttps://github.com/PinkInkTV/zombie-survival-io/releases/tag/v0.0.1) section.
+
+- Double click on the filename `zombie-servival.sb3`
 
 ## Overview
 
