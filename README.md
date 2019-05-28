@@ -10,7 +10,7 @@ A scratch game built to survive a zombie apocalypse.
 
 You can find the latest verson from the [releases](https://github.com/PinkInkTV/zombie-survival-io/releases/tag/v0.0.1) section.
 
-- Double click on the filename `zombie-servival.sb3`
+- Double click on the filename `zombie-servival-v0.0.1.sb3`
 
 ## Overview
 
